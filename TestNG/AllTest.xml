@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Staff101">
+
+	<test name="Test">
+
+		<classes>
+			<class name="org.staff101.testcases.Jobs_Module" />
+			<class name="org.staff101.testcases.Recruiter" />
+			<class name="org.staff101.testcases.Candidates" />
+			<class name="org.staff101.testcases.News" />
+			<class name="org.staff101.testcases.ABOUT_US" />
+			<class name="org.staff101.testcases.Sign_In" />
+			<class name="org.staff101.testcases.Sign_In2" />
+			<class name="org.staff101.testcases.Packages" />
+		</classes>
+
+	</test>
+
+</suite>

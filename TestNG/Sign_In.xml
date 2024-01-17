@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Staff101">
+
+	<test name="Test">
+
+		<classes>
+			<class name="org.staff101.testcases.Sign_In" />
+		</classes>
+
+	</test>
+
+</suite>
